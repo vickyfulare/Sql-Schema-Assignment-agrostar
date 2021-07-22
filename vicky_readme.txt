@@ -2,7 +2,7 @@ Name - Fulare Vicky Anil
 Department - Msc in PUCSD
 Roll no - R19111010
 Email -vickyfulare1998@gmail.com
-github link for attached assignment - 
+github link for attached assignment - https://github.com/vickyfulare/Sql-Schema-Assignment-agrostar.git
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Problem:
